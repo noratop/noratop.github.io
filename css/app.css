@@ -1,0 +1,14 @@
+html { 
+  background: url(img/ProfileBackground_Nora_Top.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.page-header{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 20px;
+}
