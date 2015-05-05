@@ -41,7 +41,7 @@ html {
     html {background-image: url(/img/noratop_bkg_1920_2x.jpg); }
 }
 
-#header_logo_image {
+.header_logo_image {
 	width: 25%;
 	min-width: 150px;
 }
