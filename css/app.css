@@ -1,4 +1,4 @@
-body { 
+html { 
 	/*background: url(/img/noratop_bkg_980.jpg) no-repeat center top fixed; */+
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -10,7 +10,7 @@ body {
 }
 
 /* default screen, non-retina */
-    body {background-image: url(/img/noratop_bkg_980.jpg); }
+    html {background-image: url(/img/noratop_bkg_980.jpg); }
 /*
 @media only screen and (max-width: 320px) {
     /* Small screen, non-retina 
