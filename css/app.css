@@ -11,32 +11,32 @@ body {
 
 /* default screen, non-retina */
     body {background-image: url(/img/noratop_bkg_1920.jpg); }
-
+/*
 @media only screen and (max-width: 320px) {
-    /* Small screen, non-retina */
+    /* Small screen, non-retina 
     body {background-image: url(/img/noratop_bkg_320.jpg); }
 }
 @media only screen and (min-resolution: 2dppx) and (max-width: 320px) {
-    /* Small screen, retina */
+    /* Small screen, retina 
     body {background-image: url(/img/noratop_bkg_320_2x.jpg); }
 }
 @media only screen and (min-width: 321px) and (max-width: 550px) {
-    /* Medium screen, non-retina */
+    /* Medium screen, non-retina 
     body {background-image: url(/img/noratop_bkg_550.jpg); }
 }
 @media only screen and (min-resolution: 2dppx) and (min-width: 321px) and (max-width: 550px) {
-    /* Medium screen, retina */
+    /* Medium screen, retina 
     body {background-image: url(/img/noratop_bkg_550_2x.jpg); }
 }
 @media only screen and (min-width: 551px) and (max-width: 980px) {
-    /* Medium screen, non-retina */
+    /* Medium screen, non-retina 
     body {background-image: url(/img/noratop_bkg_980.jpg); }
 }
 @media only screen and (min-resolution: 2dppx) and (min-width: 551px) and (max-width: 980px) {
-    /* Medium screen, retina */
+    /* Medium screen, retina 
     body {background-image: url(/img/noratop_bkg_980_2x.jpg); }
 }
 @media only screen and (min-resolution: 2dppx) and (min-width: 981px) {
-    /* Large screen, retina */
+    /* Large screen, retina 
     body {background-image: url(/img/noratop_bkg_1920_2x.jpg); }
 }
